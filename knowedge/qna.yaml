@@ -68,7 +68,7 @@ seed_examples:
           Is the GBNRTC TIP consistent with federal guidance?
         answer: |
           The GBNRTC TIP is consistent with all federal guidance and regulations across several categories.
-          
+
           - Incorporates a Comprehensive, Cooperative, and Continuing (3C) process for initiatives to be eligible for Federal transportation funding
           - Covers a period of at least four years
           - Is developed in cooperation with the state and public transit providers
@@ -100,9 +100,9 @@ seed_examples:
       - In designated non-attainment and maintenance areas, the TIP shall describe progress in implementing required TCMs and include a list of all projects found to conform in a previous TIP and which are now part of the base case in determining conformity.
     questions_and_answers:
       - question: |
-          Is approval of TIP compatible with the Statewide Transportation Improvement Program (STIP)?
+          Does the approval of TIP have to be compatible with the Statewide Transportation Improvement program?
         answer: |
-          Updating and approving TIP must be done on a cycle (at least every four years) compatible with STIP.
+          Updating and approving Transportation Improvement Program (TIP) must be done on a cycle (at least every four years) compatible with Statewide Transportation Improvement Program (STIP).
       - question: |
           What financial constraints are there for TIP?
         answer: |
@@ -110,7 +110,7 @@ seed_examples:
       - question: |
           Is the U.S. Environmental Protection Agency (EPA) conformity requirements applicable to TIP?
         answer: |
-          For TIP the non-attainment and maintenance areas must be consistent with the exempt project classifications contained in the U.S. Environmental Protection Agency (EPA) conformity requirements.
+          For Transportation Improvement Program (TIP) the non-attainment and maintenance areas must be consistent with the exempt project classifications contained in the U.S. Environmental Protection Agency (EPA) conformity requirements.
   - context: |
       ## Inter-Agency Consultation
 
