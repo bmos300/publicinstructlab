@@ -87,19 +87,7 @@ seed_examples:
       - question: |
           Is the GBNRTC TIP consistent with federal guidance?
         answer: |
-          The GBNRTC TIP is consistent with all federal guidance and regulations across several categories.
-
-          - Incorporates a Comprehensive, Cooperative, and Continuing (3C) process for initiatives to be eligible for Federal transportation funding
-          - Covers a period of at least four years
-          - Is developed in cooperation with the state and public transit providers
-          - Identifies the timing and funding of all capital and non-capital surface transportation projects, bicycle and pedestrian facilities and other transportation enhancements, Federal Lands Highway projects, and safety projects included in the State's Strategic Highway Safety Plan
-          - Is fiscally constrained
-          - Includes non-federal funded projects deemed to be 'regionally significant'
-          - Reflects the priorities and direction of the region and its state and federal partners in the transportation planning process
-          - Supports federally defined planning factors and Transportation Program Management (TPM) goals
-          - Consistency with the current Metropolitan (Long-Range) Transportation Plan (MTP/LRP)
-          - Undergoes public review including at least one public meeting
-          - Consistent with the air quality goals established by a State Implementation Plan (SIP)
+          Yes, the GBNRTC TIP is consistent with all federal guidance and regulations.
       - question: |
           Does GBNRTC TIP undergo public review?
         answer: |
