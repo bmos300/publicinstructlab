@@ -152,11 +152,11 @@ seed_examples:
       - question: |
           When creating TIP, does the GBNRTC consult with NYS Department of Agriculture?
         answer: |
-          Yes, they consult with many agencies including the NYS Department of Agriculture.
+          When creating TIP, the GBNRTC consults with many agencies, including the NYS Department of Agriculture.
       - question: |
           When creating TIP, does the GBNRTC consult with NYS Office of Parks, Recreation, and Historic Preservation?
         answer: |
-          Yes, they consult with many agencies including the NYS Office of Parks, Recreation, and Historic Preservation.
+          When creating TIP, the GBNRTC consults with many agencies including the NYS Office of Parks, Recreation, and Historic Preservation.
   - context: |
       ## Project Candidate Evaluation Criteria
 
