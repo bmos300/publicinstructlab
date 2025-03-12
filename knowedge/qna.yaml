@@ -43,7 +43,7 @@ seed_examples:
           What are NYSDOT design standards based on?
         answer: |
             The New York State Department of Transportation (NYSDOT) design standards are based on the American Association of State Highway and Transportation Officials (AASHTO) standards. All these standards have been approved by the Federal Highway Administration (FHWA) and can be used on all Federal-aid projects.
-      - question:|
+      - question: |
           What Documents could be referenced to justify nonstandard and nonconforming features?
         answer: |
           Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, from December 1997, Association of State Highway and Transportation Officials (AASHTO) Guide for Achieving Flexibility in Highway Design, also Recommendations of the Parkway Standard Task Force,  from Jan 1989  which was amended on 10/25/90, and New York State (NYS) Scenic Byways Program: Individual Corridor Management Plans.
