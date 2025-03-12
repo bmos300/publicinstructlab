@@ -69,13 +69,13 @@ seed_examples:
         answer: |
           The GBNRTC TIP is consistent with all federal guidance and regulations across several categories.
       - question: |
-          Does TIP undergo public review?
+          Does GBNRTC TIP undergo public review?
         answer: |
-          TIP does undergo public review, including at least one public meeting.
+          GBNRTC TIP does undergo public review, including at least one public meeting.
       - question: |
-          Is TIP aligned with the State Implementation Plan's (SIP) air quality goals?
+          Is GBNRTC TIP aligned with the State Implementation Plan's (SIP) air quality goals?
         answer: |
-          TIP is consistent with the air quality goals established by a State Implementation Plan (SIP).
+          GBNRTC TIP is consistent with the air quality goals established by a State Implementation Plan (SIP).
   - context: |
       Federal requirements for a Transportation Improvement Program (TIP) are contained in 23 CFR 450.324, .326, .328, and .330.  23 CFR 450.324 requires the MPO to develop a TIP in cooperation with the state and any affected public transit operator(s) and specifically requires the following:
 
