@@ -1,0 +1,54 @@
+created_by:
+version: 3
+domain: New York Transporation
+document_outline: >-
+  This document is desnged to in intended to assist nonNew York State Department
+  of Transportation (NYSDOT) transportation project sponsors in New York State
+  who seek federal funding through the Federal Highway Administration (FHWA) ,
+  as well as state funding from New York State.
+seed_examples:
+  - context: hello world
+    questions_and_answers:
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+  - context: hello world
+    questions_and_answers:
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+  - context: hello world
+    questions_and_answers:
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+  - context: hello world
+    questions_and_answers:
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+  - context: hello world
+    questions_and_answers:
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+      - question: hello world
+        answer: hello world
+document:
+  repo: https://github.com/bmos300/publicinstructlab/tree/main
+  commit: '111111'
+  patterns:
+    - blah
