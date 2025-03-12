@@ -19,26 +19,38 @@ seed_examples:
       federal aid locally administered transportation projects in New York State.  In order to stay current with the latest LPM
       manual, you visit the webpage at: https://www.dot.ny.gov/divisions/operating/opdm/local-programs-bureau/locally-administered-federal-aid-projects.
     questions_and_answers:
-      - question: How do I get assistance for New York State transportation projects?
-        answer: In order to get assitance wiht New York State transporation projects you should access the Local Projects Manual (LPM). It is intended to assist non-New York State Department of
+      - question: | 
+          How do I get assistance for New York State transportation projects?
+        answer: | 
+          To get assistance with New York State transportation projects, you should access the Local Projects Manual (LPM). It is intended to assist non-New York State Department of
           Transportation (NYSDOT) transportation project sponsors in New York State who seek federal
           funding through the Federal Highway Administration (FHWA), as well as state funding from
           New York State.
-      - question: What organizations were involved in developing the Local Projects Manual (LPM)?
-        answer: NYSDOT developed the procedures in cooperation with FHWA and representatives of the NYS
+      - question: | 
+          What organizations were involved in developing the Local Projects Manual (LPM)?
+        answer: |
+          New York State Department of Transportation (NYSDOT) developed the procedures in cooperation with FHWA and representatives of the NYS
           County Highway Superintendents Association (NYSCHSA) and other external stakeholders.
-      - question: How do I track changes with the rules and regulations set forth by the LPM?
-        answer: To track the latest version of this manual, its appendices, forms, and internal guidance can be found on
+      - question: |
+          How do I track changes with the rules and regulations set forth by the LPM?
+        answer: |
+          To track the latest version of this manual, its appendices, forms, and internal guidance can be found on
           the LPM webpage, https://www.dot.ny.gov/divisions/operating/opdm/local-programs-bureau/locally-administered-federal-aid-projects, which is a searchable and sortable listing of associated documents.
   - context: |
       Chapter 9: Design Standards and Construction Specifications describes the design standards and construction specifications used in the contract bid documents [Plans, Specifications, and Estimate (PS&E)]. New York State Department of Transportation (NYSDOT) design standards are based generally on American Association of State Highway and Transportation Officials (AASHTO) standards and have been approved by the Federal Highway Administration (FHWA) for use on all Federal-aid projects. The following references may be used to support justifying the inclusion or retention of nonstandard and nonconforming features (to address accident history, environmental impacts, cost to correct, etc.): • AASHTO’s A Guide for Achieving Flexibility in Highway Design (current edition) • Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, December 1997. • Recommendations of the Parkway Standard Task Force, Jan 1989 (amended 10/25/90) • NYS Scenic Byways Program: Individual Corridor Management Plans.NYSDOT publishes three types of issuances to guide engineering practice; an Engineering Directive (ED), Engineering Instruction (EI), and Engineering Bulletin (EB). Sponsors are only required to follow those issuances pertinent to their specific project or applicable to Federal-aid projects in general. Sponsors and their designers are responsible for keeping up-to-date with current issuances of EDs, EIs, and EBs.  RLPLs will do their best to keep Sponsors informed about relevant issuances coming into effect. 
     questions_and_answers:
-      - question: What are NYSDOT design standards based on?
-        answer: NYSDOT design standards are based on American Association of State Highway and Transportation Officials (AASHTO) standards. All these standards have been approved by the Federal Highway Administration (FHWA) and can be used on all Federal-aid projects.
-      - question: What Documents could be referenced to justify nonstandard and nonconforming features?
-        answer: Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, from December 1997
-      - question: What issuances are sponsors and their designers responsible for keeping up-to-date?
-        answer: Sponsors and their designers are responsible for keeping up-to-date all issuances of EBs, EDs, and EIs.
+      - question: |
+          What are NYSDOT design standards based on?
+        answer: |
+            The New York State Department of Transportation (NYSDOT) design standards are based on the American Association of State Highway and Transportation Officials (AASHTO) standards. All these standards have been approved by the Federal Highway Administration (FHWA) and can be used on all Federal-aid projects.
+      - question:|
+          What Documents could be referenced to justify nonstandard and nonconforming features?
+        answer: |
+          Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, from December 1997, Association of State Highway and Transportation Officials (AASHTO) Guide for Achieving Flexibility in Highway Design, also Recommendations of the Parkway Standard Task Force,  from Jan 1989  which was amended on 10/25/90, and New York State (NYS) Scenic Byways Program: Individual Corridor Management Plans.
+      - question: |
+          What issuances are sponsors and their designers responsible for keeping up-to-date?
+        answer: |
+          Sponsors and their designers are responsible for keeping up-to-date all issuances of Engineering Directive (ED), Engineering Instruction (EI), and Engineering Bulletin (EB).
   - context: |
       ## What is the TIP?
 
