@@ -158,13 +158,13 @@ seed_examples:
         answer: |
           For the 2023-2027 TIP, the GBNRTC conducted interagency consultation with 21 federal, state, local, and tribal agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation.
       - question: |
-          When creating TIP, does the GBNRTC consult with NYS Department of Agriculture?
+          Does the GBNRTC consult with NYS Department of Agriculture thoughout the TIP creation process?
         answer: |
           When creating TIP, the GBNRTC consults with many agencies, including the NYS Department of Agriculture.
       - question: |
-          When creating TIP, does the GBNRTC consult with NYS Office of Parks, Recreation, and Historic Preservation?
+          Does the GBNRTC consult with NYS Office of Parks, Recreation, and Historic Preservation for TIP?
         answer: |
-          When creating TIP, the GBNRTC consults with many agencies including the NYS Office of Parks, Recreation, and Historic Preservation.
+          The GBNRTC consults with many agencies for TIP including the NYS Office of Parks, Recreation, and Historic Preservation.
   - context: |
       ## Project Candidate Evaluation Criteria
 
