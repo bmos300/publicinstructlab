@@ -80,14 +80,26 @@ seed_examples:
           Is the GBNRTC TIP consistent with federal guidance?
         answer: |
           The GBNRTC TIP is consistent with all federal guidance and regulations across several categories.
+
+          - Incorporates a Comprehensive, Cooperative, and Continuing (3C) process for initiatives to be eligible for Federal transportation funding
+          - Covers a period of at least four years
+          - Is developed in cooperation with the state and public transit providers
+          - Identifies the timing and funding of all capital and non-capital surface transportation projects, bicycle and pedestrian facilities and other transportation enhancements, Federal Lands Highway projects, and safety projects included in the State's Strategic Highway Safety Plan
+          - Is fiscally constrained
+          - Includes non-federal funded projects deemed to be 'regionally significant'
+          - Reflects the priorities and direction of the region and its state and federal partners in the transportation planning process
+          - Supports federally defined planning factors and Transportation Program Management (TPM) goals
+          - Consistency with the current Metropolitan (Long-Range) Transportation Plan (MTP/LRP)
+          - Undergoes public review including at least one public meeting
+          - Consistent with the air quality goals established by a State Implementation Plan (SIP)
       - question: |
-          Does TIP undergo public review?
+          Does GBNRTC TIP undergo public review?
         answer: |
-          TIP does undergo public review, including at least one public meeting.
+          GBNRTC TIP does undergo public review, including at least one public meeting.
       - question: |
-          Is TIP aligned with the State Implementation Plan's (SIP) air quality goals?
+          Is GBNRTC TIP aligned with the State Implementation Plan's (SIP) air quality goals?
         answer: |
-          TIP is consistent with the air quality goals established by a State Implementation Plan (SIP).
+          GBNRTC TIP is consistent with the air quality goals established by a State Implementation Plan (SIP).
   - context: |
       Federal requirements for a Transportation Improvement Program (TIP) are contained in 23 CFR 450.324, .326, .328, and .330.  23 CFR 450.324 requires the MPO to develop a TIP in cooperation with the state and any affected public transit operator(s) and specifically requires the following:
 
@@ -100,9 +112,9 @@ seed_examples:
       - In designated non-attainment and maintenance areas, the TIP shall describe progress in implementing required TCMs and include a list of all projects found to conform in a previous TIP and which are now part of the base case in determining conformity.
     questions_and_answers:
       - question: |
-          Is approval of TIP compatible with the Statewide Transportation Improvement Program (STIP)?
+          Does the approval of TIP have to be compatible with the Statewide Transportation Improvement program?
         answer: |
-          Updating and approving TIP must be done on a cycle (at least every four years) compatible with STIP.
+          Updating and approving Transportation Improvement Program (TIP) must be done on a cycle (at least every four years) compatible with Statewide Transportation Improvement Program (STIP).
       - question: |
           What financial constraints are there for TIP?
         answer: |
@@ -110,7 +122,7 @@ seed_examples:
       - question: |
           Is the U.S. Environmental Protection Agency (EPA) conformity requirements applicable to TIP?
         answer: |
-          For TIP the non-attainment and maintenance areas must be consistent with the exempt project classifications contained in the U.S. Environmental Protection Agency (EPA) conformity requirements.
+          For Transportation Improvement Program (TIP) the non-attainment and maintenance areas must be consistent with the exempt project classifications contained in the U.S. Environmental Protection Agency (EPA) conformity requirements.
   - context: |
       ## Inter-Agency Consultation
 
@@ -152,11 +164,11 @@ seed_examples:
       - question: |
           When creating TIP, does the GBNRTC consult with NYS Department of Agriculture?
         answer: |
-          Yes, they consult with many agencies including the NYS Department of Agriculture.
+          When creating TIP, the GBNRTC consults with many agencies, including the NYS Department of Agriculture.
       - question: |
           When creating TIP, does the GBNRTC consult with NYS Office of Parks, Recreation, and Historic Preservation?
         answer: |
-          Yes, they consult with many agencies including the NYS Office of Parks, Recreation, and Historic Preservation.
+          When creating TIP, the GBNRTC consults with many agencies including the NYS Office of Parks, Recreation, and Historic Preservation.
   - context: |
       ## Project Candidate Evaluation Criteria
 
