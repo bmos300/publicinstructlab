@@ -221,3 +221,5 @@ document:
   commit: main
   patterns:
     - 2024TIPGuidebook.md
+    - PLAFAP.md
+    - Chapter1.md
