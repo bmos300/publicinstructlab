@@ -242,7 +242,6 @@ seed_examples:
           Does the TIP development process engage with the interested state and regional agencies to consult and comment on the TIP?
         answer: |
           Yes, the TIP Development process provides the opportunity for interested state and regional agencies to consult and comment on the draft of the TIP. TIP development process also encourges participation of Indian/Native Nations government(s) and targeted stakeholders in the rural areas.
-
 document:
   repo: https://github.com/bmos300/publicinstructlab.git
   commit: main
