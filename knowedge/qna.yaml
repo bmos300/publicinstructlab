@@ -200,7 +200,7 @@ seed_examples:
       - question: |
           What federal planning goals will my project be evaluated against?
         answer: |
-          Your TIP project will be evaluated against the metropolitan transportation planning process and shall be continuous, cooperative, and comprehensive, and provide for consideration and implementation of projects, strategies, and services.
+          Your project will be evaluated against the metropolitan transportation planning process and shall be continuous, cooperative, and comprehensive, and provide for consideration and implementation of projects, strategies, and services.
   - context: |
       ## Public Participation
 
@@ -233,7 +233,7 @@ seed_examples:
       - question: |
           Does the TIP development process engage with the interested state and regional agencies to consult and comment on the TIP?
         answer: |
-          The TIP Development process provides the opportunity for interested state and regional agencies to consult and comment on the draft of the TIP. TIP development process also encourges participation of Indian/Native Nations government(s) and targeted stakeholders in the rural areas.
+          Yes, the TIP Development process provides the opportunity for interested state and regional agencies to consult and comment on the draft of the TIP. TIP development process also encourges participation of Indian/Native Nations government(s) and targeted stakeholders in the rural areas.
 
 document:
   repo: https://github.com/bmos300/publicinstructlab.git
