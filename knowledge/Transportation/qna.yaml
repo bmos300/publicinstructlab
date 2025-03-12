@@ -1,0 +1,251 @@
+created_by: bmos300
+version: 3
+domain: New York Transportation
+document_outline:
+  This document is intended to assist non-New York State Department
+  of Transportation (NYSDOT) transportation project sponsors in New York State
+  who seek federal funding through the Federal Highway Administration (FHWA),
+  as well as state funding from New York State.
+seed_examples:
+  - context: |
+      The Local Projects Manual (LPM) is intended to assist non New York State Department of Transportation (NYSDOT) transportation project
+      sponsors in New York State who seek federal funding through
+      the Federal Highway Administration (FHWA) , as well as state funding from New York State. The LPM aims to provide
+      an overview of the processes, procedures, documentation, authorizations, approvals, and certifications required
+      throughout the scoping, design, construction, and maintenance of transportation-related projects. While all attempts
+      have been made to create a manual as comprehensive as possible, the dynamics of federal and state policy make it
+      reasonable to expect that the reader will need to have other references at hand as well.
+      NYSDOT developed the procedures in cooperation with FHWA and representatives of the NYS County Highway Superintendents
+      Association (NYSCHSA) and other external stakeholders. These organizations administer locally administered federal and state-aided transportation projects.
+      Periodic updates are necessary to reflect changes in laws, rules, regulations, and executive orders, along with the institutional knowledge gained in the
+      evolving practice of non NYSDOT administered federal and state aid transportation projects. Revision dates can typically be found in the footer of each chapter.
+      The manual is intended to provide project development guidance to Sponsors, who are delegated most responsible for administering federal and state aid transportation projects.
+      However, under U.S. Code Title 23, NYSDOT is ultimately responsible for federal aid transportation projects in New York State and cannot delegate its overall administrative duties,
+      thereby retaining oversight authority. NYSDOT also retains ultimate responsibility for the successful implementation of non-
+      federal aid locally administered transportation projects in New York State.  In order to stay current with the latest LPM
+      manual, you visit the webpage at: https://www.dot.ny.gov/divisions/operating/opdm/local-programs-bureau/locally-administered-federal-aid-projects.
+    questions_and_answers:
+      - question: |
+          How do I get assistance for New York State transportation projects?
+        answer: |
+          To get assistance with New York State transportation projects, you should access the Local Projects Manual (LPM). It is intended to assist non-New York State Department of
+          Transportation (NYSDOT) transportation project sponsors in New York State who seek federal
+          funding through the Federal Highway Administration (FHWA), as well as state funding from
+          New York State.
+      - question: |
+          What organizations were involved in developing the Local Projects Manual (LPM)?
+        answer: |
+          New York State Department of Transportation (NYSDOT) developed the procedures in cooperation with FHWA and representatives of the NYS
+          County Highway Superintendents Association (NYSCHSA) and other external stakeholders.
+      - question: |
+          How do I track changes with the rules and regulations set forth by the LPM?
+        answer: |
+          To track the latest version of this manual, its appendices, forms, and internal guidance can be found on
+          the LPM webpage, https://www.dot.ny.gov/divisions/operating/opdm/local-programs-bureau/locally-administered-federal-aid-projects, which is a searchable and sortable listing of associated documents.
+  - context: |
+      Chapter 9: Design Standards and Construction Specifications describes the design standards and construction specifications used in the contract bid documents [Plans, Specifications, and Estimate (PS&E)].
+      New York State Department of Transportation (NYSDOT) design standards are based generally on American Association of State Highway and Transportation Officials (AASHTO) standards and have been approved by the Federal Highway Administration (FHWA)
+      for use on all Federal-aid projects. The following references may be used to support justifying the inclusion or retention of nonstandard and nonconforming features (to address accident history, environmental impacts, cost to correct, etc.): • AASHTO’s A Guide for Achieving Flexibility in Highway Design (current edition) • Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, December 1997. • Recommendations of the Parkway Standard Task Force, Jan 1989 (amended 10/25/90) • NYS Scenic Byways Program: Individual Corridor Management Plans.NYSDOT publishes three types of issuances to guide engineering practice; an Engineering Directive (ED), Engineering Instruction (EI), and Engineering Bulletin (EB). Sponsors are only required to follow those issuances pertinent to their specific project or applicable to Federal-aid projects in general. Sponsors and their designers are responsible for keeping up-to-date with current issuances of EDs, EIs, and EBs.  RLPLs will do their best to keep Sponsors informed about relevant issuances coming into effect.
+    questions_and_answers:
+      - question: |
+          What are NYSDOT design standards based on?
+        answer: |
+            The New York State Department of Transportation (NYSDOT) design standards are based on the American Association of State Highway and Transportation Officials (AASHTO) standards. All these standards have been approved by the Federal Highway Administration (FHWA) and can be used on all Federal-aid projects.
+      - question: |
+          What Documents could be referenced to justify nonstandard and nonconforming features?
+        answer: |
+          Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, from December 1997, Association of State Highway and Transportation Officials (AASHTO) Guide for Achieving Flexibility in Highway Design, also Recommendations of the Parkway Standard Task Force,  from Jan 1989  which was amended on 10/25/90, and New York State (NYS) Scenic Byways Program: Individual Corridor Management Plans.
+      - question: |
+          What issuances are sponsors and their designers responsible for keeping up-to-date?
+        answer: |
+          Sponsors and their designers are responsible for keeping up-to-date all issuances of Engineering Directive (ED), Engineering Instruction (EI), and Engineering Bulletin (EB).
+  - context: |
+      ## What is the TIP?
+
+      The Transportation Improvement Program (TIP) is a staged and financially constrained multi-year program of local/state highway, multimodal and transit projects.
+
+      All transportation projects must be listed in the TIP to be eligible for federal and state funding, federal and state permits, and review of Environmental Impact Reports and Environmental Impact Statements.
+
+      The GBNRTC TIP is consistent with all federal guidance and regulations, including:
+
+      - Incorporates a Comprehensive, Cooperative, and Continuing (3C) process for initiatives to be eligible for Federal transportation funding
+      - Covers a period of at least four years
+      - Is developed in cooperation with the state and public transit providers
+      - Identifies the timing and funding of all capital and non-capital surface transportation projects, bicycle and pedestrian facilities and other transportation enhancements, Federal Lands Highway projects, and safety projects included in the State's Strategic Highway Safety Plan
+      - Is fiscally constrained
+      - Includes non-federal funded projects deemed to be 'regionally significant'
+      - Reflects the priorities and direction of the region and its state and federal partners in the transportation planning process
+      - Supports federally defined planning factors and Transportation Program Management (TPM) goals
+      - Consistency with the current Metropolitan (Long-Range) Transportation Plan (MTP/LRP)
+      - Undergoes public review including at least one public meeting
+      - Consistent with the air quality goals established by a State Implementation Plan (SIP)
+
+      The GBNRTC's TIP is developed by a team led by staff from the Greater Buffalo-Niagara Regional Transportation Council (GBNRTC) and New York State Department of Transportation (Region 5).
+
+      The Statewide Transportation Improvement Program (STIP) is a four-year listing of all projects (and their phases) in New York for which federal funding is proposed to be used. The STIP begins as a compilation of all MPO TIPs that are adopted every four years by NY Metropolitan Planning Organizations and evolves into a comprehensive list of all highway and transit projects that propose to use Federal funds. Amendments to the STIP can be made by MPOs and Regions for the subsequent State and Federal review and possible approval.
+    questions_and_answers:
+      - question: |
+          Is the GBNRTC TIP consistent with federal guidance?
+        answer: |
+          Yes, the GBNRTC TIP is consistent with all federal guidance and regulations.
+      - question: |
+          Does GBNRTC TIP undergo public review?
+        answer: |
+          GBNRTC TIP does undergo public review, including at least one public meeting.
+      - question: |
+          Is GBNRTC TIP aligned with the State Implementation Plan's (SIP) air quality goals?
+        answer: |
+          GBNRTC TIP is consistent with the air quality goals established by a State Implementation Plan (SIP).
+  - context: |
+      Federal requirements for a Transportation Improvement Program (TIP) are contained in 23 CFR 450.324, .326, .328, and .330.  23 CFR 450.324 requires the MPO to develop a TIP in cooperation with the state and any affected public transit operator(s) and specifically requires the following:
+
+      - Updating and approving the TIP on a cycle (at least every four years) compatible with development of the Statewide Transportation Improvement Program (STIP).
+      - Transportation conformity determination by FHWA and FTA in nonattainment and maintenance areas.
+      - Opportunities for the public to comment and at least one formal public meeting during the TIP development process.
+      - Financially constraint including a financial plan identifying projects that can be implemented using current revenue sources and projects requiring proposed additional sources.
+      - Inclusion of all transportation projects, including bicycle and pedestrian facilities, proposed for funding, including Federal Lands highway projects, but excluding safety projects funded under 23 USC 402, emergency relief projects, and planning and research activities not funded with National Highway System (NHS), Surface Transportation Program (STP) or minimum guarantee funds; all regionally significant transportation projects for which FHWA or FTA approval is required and, for informational purposes, all regionally significant projects to be funded from non-Federal sources; only projects that are consistent with the MTP.
+      - In designated non-attainment and maintenance areas, classifications must be consistent with the exempt project classifications contained in the U.S. Environmental Protection Agency (EPA) conformity requirements. (40 CFR part 51).
+      - In designated non-attainment and maintenance areas, the TIP shall describe progress in implementing required TCMs and include a list of all projects found to conform in a previous TIP and which are now part of the base case in determining conformity.
+    questions_and_answers:
+      - question: |
+          Does the approval of TIP have to be compatible with the Statewide Transportation Improvement program?
+        answer: |
+          Updating and approving Transportation Improvement Program (TIP) must be done on a cycle (at least every four years) compatible with Statewide Transportation Improvement Program (STIP).
+      - question: |
+          What financial constraints are there for TIP?
+        answer: |
+          The financial constrains on include current revenue sources and any proposed project sources.
+      - question: |
+          Is the U.S. Environmental Protection Agency (EPA) conformity requirements applicable to TIP?
+        answer: |
+          For Transportation Improvement Program (TIP) the non-attainment and maintenance areas must be consistent with the exempt project classifications contained in the U.S. Environmental Protection Agency (EPA) conformity requirements.
+  - context: |
+      ## Inter-Agency Consultation
+
+      Participation from a range of stakeholders is important in the transportation planning process. Transportation is vital to our quality of life, and transportation projects can have significant effects on different groups of stakeholders.
+
+      For the 2023-2027 TIP, the GBNRTC conducted interagency consultation with 21 federal, state, local, and tribal agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation. For the 2026-2030 TIP, this list will be expanded to 25 to include three regional housing agencies:
+
+      - 1. Buffalo Niagara Waterkeeper
+      - 2. Buffalo Sewer Authority
+      - 3. City of Buffalo Strategic Planning
+      - 4. Empire State Development
+      - 5. Erie County Department of Environment and Planning
+      - 6. National Park Service
+      - 7. New York State Department of Health
+      - 8. Niagara County Center for Economic Development
+      - 9. NYS Historic Preservation Office
+      - 10. NYS Office of Parks, Recreation, and Historic Preservation
+      - 11. Preservation Buffalo Niagara
+      - 12. Seneca Nation of Indians
+      - 13. Tonawanda Seneca Nation
+      - 14. Tuscarora Nation
+      - 15. U.S. Army Corps of Engineers
+      - 16. University at Buffalo (UB) - Historic Preservation
+      - 17. US Department of Agriculture/Natural Resource Conservation Service
+      - 18. US Fish and Wildlife Service
+      - 19. NYS DEC
+      - 20. NYS Department of Agriculture
+      - 21. USEPA
+      - 22. U.S. Department of Housing and Urban Development
+      - 23. Belmont Housing Resources for WNY, Inc.
+      - 24. Local Initiatives Support Corporation (LISC) NY
+
+      These agencies will be contacted via email during the 30-day public review period. The TIP process and draft TIP will be explained and made available for comment. GBNRTC staff also offers to meet with any of the agencies to discuss the TIP and TIP process.
+    questions_and_answers:
+      - question: |
+          Does GBNRTC consult with any agencies when creating TIP?
+        answer: |
+          For the 2023-2027 TIP, the GBNRTC conducted interagency consultation with 21 federal, state, local, and tribal agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation.
+      - question: |
+          Does the GBNRTC consult with NYS Department of Agriculture thoughout the TIP creation process?
+        answer: |
+          When creating TIP, the GBNRTC consults with many agencies, including the NYS Department of Agriculture.
+      - question: |
+          Does the GBNRTC consult with NYS Office of Parks, Recreation, and Historic Preservation for TIP?
+        answer: |
+          The GBNRTC consults with many agencies for TIP including the NYS Office of Parks, Recreation, and Historic Preservation.
+  - context: |
+      ## Project Candidate Evaluation Criteria
+
+      Beginning with the 2023-2027 TIP, the GBNRTC has evaluated and scored project submissions. This was initially done to assist with the TIP-MTP linkage.
+
+      For the 2026-2030 TIP, the GBNRTC MPO evaluation will be expanded and based on the following seven categories:
+
+      1. 2050 Metropolitan Transportation Plan (MTP) Linkage - Under federal regulations (CFR 23 450.326(a)), the TIP must advance MTP projects and reflect MTP investment priorities.
+          - Community opportunities providing residents with various lifestyle choices and attracting new, diverse residents, businesses and investments
+          - A competitive economy with shared prosperity that spreads economic opportunities and benefits to all residents
+          - Environmental health, access and sustainability for all residents
+          - Innovative decision-making for planning, funding and implementing transportation improvements
+      2. Federal Transportation Program Management (TPM) Goal Linkage - MPOs must employ a transportation performance management approach in carrying out their federally-required planning and programming activities (CFR 23 part 150(b))
+          - Safety
+          - Capital Assets Condition
+          - Congestion Reduction
+          - System Reliability
+          - Freight Movement and Economic Vitality
+          - Environmental Sustainability
+          - Reduced Project Delivery Delays
+      3. Federal Planning Goals - The metropolitan transportation planning process shall be continuous, cooperative, and comprehensive, and provide for consideration and implementation of projects, strategies, and services that will address the following ten factors in 23 CFR § 450.306(b):
+          - Support the economic vitality of the metropolitan area, especially by enabling global competitiveness, productivity, and efficiency
+          - Increase the safety of the transportation system for motorized and non-motorized users
+          - Increase the security of the transportation system for motorized and non-motorized users
+          - Increase accessibility and mobility of people and freight
+          - Protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and state and local planned growth and economic development patterns
+          - Enhance the integration and connectivity of the transportation system, across and between modes, for people and freight
+          - Promote efficient system management and operation
+          - Emphasize preservation of the existing transportation system
+          - Improve the resiliency and reliability of the transportation system and reduce or mitigate stormwater impacts of surface transportation
+          - Enhance travel and tourism
+    questions_and_answers:
+      - question: |
+          What are the main evaluation categories for TIP project submissions?
+        answer: |
+          The main evaluation categories include 2050 Metropolitan Transportation Plan (MTP) Linkage, Federal Transportation Program Management (TPM) Goal Linkage, and Federal Planning Goals.
+      - question: |
+          Is Congestion Reduction one of the evaluation criteria for Federal Transportation Program Management (TPM) Goal Linkage?
+        answer: |
+          Yes, Congestion Reduction one of the evaluation criteria for Federal Transportation Program Management (TPM) Goal Linkage.
+      - question: |
+          What federal planning goals will my project be evaluated against?
+        answer: |
+          Your project will be evaluated against the metropolitan transportation planning process and shall be continuous, cooperative, and comprehensive, and provide for consideration and implementation of projects, strategies, and services.
+  - context: |
+      ## Public Participation
+
+      The GBNRTC has developed a Public Participation Plan (PPP) in consultation with all interested parties. The PPP covers a full range of opportunities for members of the public to engage in the transportation decision-making in the region, from in-person and virtual MPO meetings, social media, and other engagement events and activities. The PPP states the principles and policies that the GBNRTC has committed to for all public participation activities. This document details various opportunities and engagement approaches, including virtual formats, for public participation in the GBNRTC's planning process.
+
+      THE GBNRTC PPP was updated in 2023 and takes into account an increased focus on environmental justice and equity in transportation planning as well as recent advances in the deployment of virtual meeting technology and online platforms. The updated PPP is an opportunity to provide guidance to ensure that all residents benefit from transportation investments and have a voice in the metropolitan planning process.
+
+      For the TIP development process, numerous public participation will be employed, including:
+
+      Use of email blasts, GBNRTC web site and GBNRTC social media channels to keep the public informed about the TIP development process including availability of draft documents and the announcement of public comment periods and public meetings
+
+      Publication of draft TIP in no-cost, accessible, electronic (Adobe PDF) format as well as having hard copy available for viewing during GBNRTC office hours
+
+      Use of visualization in Plans and Metropolitan TIP Development including maps, charts, PowerPoint slides and interactive Geographic Information Systems (GIS)
+
+      Opportunity for interested state and regional agencies to consult and comment on the TIP
+
+      Provide direct notice and appropriately involve the Indian/Native Nations government(s) in the development of the TIP
+
+      Targeted engagement with stakeholders in Rural Areas
+    questions_and_answers:
+      - question: |
+          Has GBNRTC developed any Public Participation Plan (PPP) in consultation with all interested parties?
+        answer: |
+          After consulting with the interested parties, the GBNRTC has created a Public Participation Plan (PPP) that gives the ability to members of the public to engage in the transportation decision-making in the region through different means.
+      - question: |
+          For the participation of the public in the TIP development process, what awareness means will be used?
+        answer: |
+          To encourage maximum public participation, the TIP development process will use email blasts, the GBNRTC website, and GBNRTC social media channels, making draft copies (both in soft copy and hard copy format) of the TIP development plan available at no cost.
+      - question: |
+          Does the TIP development process engage with the interested state and regional agencies to consult and comment on the TIP?
+        answer: |
+          Yes, the TIP Development process provides the opportunity for interested state and regional agencies to consult and comment on the draft of the TIP. TIP development process also encourges participation of Indian/Native Nations government(s) and targeted stakeholders in the rural areas.
+document:
+  repo: https://github.com/bmos300/publicinstructlab.git
+  commit: main
+  patterns:
+    - 2024TIPGuidebook.md
+    - PLAFAP.md
+    - Chapter1.md
