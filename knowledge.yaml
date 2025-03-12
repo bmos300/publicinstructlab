@@ -15,14 +15,14 @@ seed_examples:
         answer: hello world
       - question: hello world
         answer: hello world
-  - context: hello world
+  - context: Chapter 9: Design Standards and Construction Specifications describes the design standards and construction specifications used in the contract bid documents [Plans, Specifications, and Estimate (PS&E)]. New York State Department of Transportation (NYSDOT) design standards are based generally on American Association of State Highway and Transportation Officials (AASHTO) standards and have been approved by the Federal Highway Administration (FHWA) for use on all Federal-aid projects. The following references may be used to support justifying the inclusion or retention of nonstandard and nonconforming features (to address accident history, environmental impacts, cost to correct, etc.): • AASHTO’s A Guide for Achieving Flexibility in Highway Design (current edition) • Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, December 1997. • Recommendations of the Parkway Standard Task Force, Jan 1989 (amended 10/25/90) • NYS Scenic Byways Program: Individual Corridor Management Plans.NYSDOT publishes three types of issuances to guide engineering practice; an Engineering Directive (ED), Engineering Instruction (EI), and Engineering Bulletin (EB). Sponsors are only required to follow those issuances pertinent to their specific project or applicable to Federal-aid projects in general. Sponsors and their designers are responsible for keeping up-to-date with current issuances of EDs, EIs, and EBs.  RLPLs will do their best to keep Sponsors informed about relevant issuances coming into effect. 
     questions_and_answers:
-      - question: hello world
-        answer: hello world
-      - question: hello world
-        answer: hello world
-      - question: hello world
-        answer: hello world
+      - question: What are NYSDOT design standards based on?
+        answer: NYSDOT design standards are based on American Association of State Highway and Transportation Officials (AASHTO) standards. All these standards have been approved by the Federal Highway Administration (FHWA) and can be used on all Federal-aid projects.
+      - question: What Documents could be referenced to justify nonstandard and nonconforming features?
+        answer: Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, from December 1997
+      - question: What issuances are sponsors and their designers responsible for keeping up-to-date?
+        answer: Sponsors and their designers are responsible for keeping up-to-date all issuances of EBs, EDs, and EIs.
   - context: hello world
     questions_and_answers:
       - question: hello world
