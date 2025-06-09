@@ -1,44 +1,64 @@
-created_by:
+created_by: bmos300
 version: 3
 domain: New York Transportation
-document_outline: 
+document_outline:
   This document is intended to assist non-New York State Department
   of Transportation (NYSDOT) transportation project sponsors in New York State
-  who seek federal funding through the Federal Highway Administration (FHWA) ,
+  who seek federal funding through the Federal Highway Administration (FHWA),
   as well as state funding from New York State.
 seed_examples:
-  - context: | 
-      The Local Projects Manual (LPM) is intended to assist non New York State Department of Transportation (NYSDOT) transportation project sponsors in New York State who seek federal funding through
+  - context: |
+      The Local Projects Manual (LPM) is intended to assist non New York State Department of Transportation (NYSDOT) transportation project
+      sponsors in New York State who seek federal funding through
       the Federal Highway Administration (FHWA) , as well as state funding from New York State. The LPM aims to provide
       an overview of the processes, procedures, documentation, authorizations, approvals, and certifications required
       throughout the scoping, design, construction, and maintenance of transportation-related projects. While all attempts
       have been made to create a manual as comprehensive as possible, the dynamics of federal and state policy make it
       reasonable to expect that the reader will need to have other references at hand as well.
       NYSDOT developed the procedures in cooperation with FHWA and representatives of the NYS County Highway Superintendents
-      Association (NYSCHSA) and other external stakeholders. These organizations administer locally administered federal and state-aided transportation projects. Periodic updates are necessary to reflect changes in laws, rules, regulations, and executive orders, along with the institutional knowledge gained in the evolving practice of non NYSDOT administered federal and state aid transportation projects. Revision dates can typically be found in the footer of each chapter. The manual is intended to provide project development guidance to Sponsors, who are delegated most responsible for administering federal and state aid transportation projects. However, under U.S. Code Title 23, NYSDOT is ultimately responsible for federal aid transportation projects in New York State and cannot delegate its overall administrative duties, thereby retaining oversight authority. NYSDOT also retains ultimate responsibility for the successful implementation of non-
+      Association (NYSCHSA) and other external stakeholders. These organizations administer locally administered federal and state-aided transportation projects.
+      Periodic updates are necessary to reflect changes in laws, rules, regulations, and executive orders, along with the institutional knowledge gained in the
+      evolving practice of non NYSDOT administered federal and state aid transportation projects. Revision dates can typically be found in the footer of each chapter.
+      The manual is intended to provide project development guidance to Sponsors, who are delegated most responsible for administering federal and state aid transportation projects.
+      However, under U.S. Code Title 23, NYSDOT is ultimately responsible for federal aid transportation projects in New York State and cannot delegate its overall administrative duties,
+      thereby retaining oversight authority. NYSDOT also retains ultimate responsibility for the successful implementation of non-
       federal aid locally administered transportation projects in New York State.  In order to stay current with the latest LPM
       manual, you visit the webpage at: https://www.dot.ny.gov/divisions/operating/opdm/local-programs-bureau/locally-administered-federal-aid-projects.
     questions_and_answers:
-      - question: How do I get assistance for New York State transportation projects?
-        answer: In order to get assitance wiht New York State transporation projects you should access the Local Projects Manual (LPM). It is intended to assist non-New York State Department of
+      - question: |
+          How do I get assistance for New York State transportation projects?
+        answer: |
+          To get assistance with New York State transportation projects, you should access the Local Projects Manual (LPM). It is intended to assist non-New York State Department of
           Transportation (NYSDOT) transportation project sponsors in New York State who seek federal
           funding through the Federal Highway Administration (FHWA), as well as state funding from
           New York State.
-      - question: What organizations were involved in developing the Local Projects Manual (LPM)?
-        answer: NYSDOT developed the procedures in cooperation with FHWA and representatives of the NYS
+      - question: |
+          What organizations were involved in developing the Local Projects Manual (LPM)?
+        answer: |
+          New York State Department of Transportation (NYSDOT) developed the procedures in cooperation with FHWA and representatives of the NYS
           County Highway Superintendents Association (NYSCHSA) and other external stakeholders.
-      - question: How do I track changes with the rules and regulations set forth by the LPM?
-        answer: To track the latest version of this manual, its appendices, forms, and internal guidance can be found on
+      - question: |
+          How do I track changes with the rules and regulations set forth by the LPM?
+        answer: |
+          To track the latest version of this manual, its appendices, forms, and internal guidance can be found on
           the LPM webpage, https://www.dot.ny.gov/divisions/operating/opdm/local-programs-bureau/locally-administered-federal-aid-projects, which is a searchable and sortable listing of associated documents.
   - context: |
-      Chapter 9: Design Standards and Construction Specifications describes the design standards and construction specifications used in the contract bid documents [Plans, Specifications, and Estimate (PS&E)]. New York State Department of Transportation (NYSDOT) design standards are based generally on American Association of State Highway and Transportation Officials (AASHTO) standards and have been approved by the Federal Highway Administration (FHWA) for use on all Federal-aid projects. The following references may be used to support justifying the inclusion or retention of nonstandard and nonconforming features (to address accident history, environmental impacts, cost to correct, etc.): • AASHTO’s A Guide for Achieving Flexibility in Highway Design (current edition) • Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, December 1997. • Recommendations of the Parkway Standard Task Force, Jan 1989 (amended 10/25/90) • NYS Scenic Byways Program: Individual Corridor Management Plans.NYSDOT publishes three types of issuances to guide engineering practice; an Engineering Directive (ED), Engineering Instruction (EI), and Engineering Bulletin (EB). Sponsors are only required to follow those issuances pertinent to their specific project or applicable to Federal-aid projects in general. Sponsors and their designers are responsible for keeping up-to-date with current issuances of EDs, EIs, and EBs.  RLPLs will do their best to keep Sponsors informed about relevant issuances coming into effect. 
+      Chapter 9: Design Standards and Construction Specifications describes the design standards and construction specifications used in the contract bid documents [Plans, Specifications, and Estimate (PS&E)].
+      New York State Department of Transportation (NYSDOT) design standards are based generally on American Association of State Highway and Transportation Officials (AASHTO) standards and have been approved by the Federal Highway Administration (FHWA)
+      for use on all Federal-aid projects. The following references may be used to support justifying the inclusion or retention of nonstandard and nonconforming features (to address accident history, environmental impacts, cost to correct, etc.): • AASHTO’s A Guide for Achieving Flexibility in Highway Design (current edition) • Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, December 1997. • Recommendations of the Parkway Standard Task Force, Jan 1989 (amended 10/25/90) • NYS Scenic Byways Program: Individual Corridor Management Plans.NYSDOT publishes three types of issuances to guide engineering practice; an Engineering Directive (ED), Engineering Instruction (EI), and Engineering Bulletin (EB). Sponsors are only required to follow those issuances pertinent to their specific project or applicable to Federal-aid projects in general. Sponsors and their designers are responsible for keeping up-to-date with current issuances of EDs, EIs, and EBs.  RLPLs will do their best to keep Sponsors informed about relevant issuances coming into effect.
     questions_and_answers:
-      - question: What are NYSDOT design standards based on?
-        answer: NYSDOT design standards are based on American Association of State Highway and Transportation Officials (AASHTO) standards. All these standards have been approved by the Federal Highway Administration (FHWA) and can be used on all Federal-aid projects.
-      - question: What Documents could be referenced to justify nonstandard and nonconforming features?
-        answer: Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, from December 1997
-      - question: What issuances are sponsors and their designers responsible for keeping up-to-date?
-        answer: Sponsors and their designers are responsible for keeping up-to-date all issuances of EBs, EDs, and EIs.
+      - question: |
+          What are NYSDOT design standards based on?
+        answer: |
+            The New York State Department of Transportation (NYSDOT) design standards are based on the American Association of State Highway and Transportation Officials (AASHTO) standards. All these standards have been approved by the Federal Highway Administration (FHWA) and can be used on all Federal-aid projects.
+      - question: |
+          What Documents could be referenced to justify nonstandard and nonconforming features?
+        answer: |
+          Proposed Treatments for the Rehabilitation of the National Register Eligible Long Island Parkways, from December 1997, Association of State Highway and Transportation Officials (AASHTO) Guide for Achieving Flexibility in Highway Design, also Recommendations of the Parkway Standard Task Force,  from Jan 1989  which was amended on 10/25/90, and New York State (NYS) Scenic Byways Program: Individual Corridor Management Plans.
+      - question: |
+          What issuances are sponsors and their designers responsible for keeping up-to-date?
+        answer: |
+          Sponsors and their designers are responsible for keeping up-to-date all issuances of Engineering Directive (ED), Engineering Instruction (EI), and Engineering Bulletin (EB).
   - context: |
       ## What is the TIP?
 
@@ -67,19 +87,7 @@ seed_examples:
       - question: |
           Is the GBNRTC TIP consistent with federal guidance?
         answer: |
-          The GBNRTC TIP is consistent with all federal guidance and regulations across several categories.
-
-          - Incorporates a Comprehensive, Cooperative, and Continuing (3C) process for initiatives to be eligible for Federal transportation funding
-          - Covers a period of at least four years
-          - Is developed in cooperation with the state and public transit providers
-          - Identifies the timing and funding of all capital and non-capital surface transportation projects, bicycle and pedestrian facilities and other transportation enhancements, Federal Lands Highway projects, and safety projects included in the State's Strategic Highway Safety Plan
-          - Is fiscally constrained
-          - Includes non-federal funded projects deemed to be 'regionally significant'
-          - Reflects the priorities and direction of the region and its state and federal partners in the transportation planning process
-          - Supports federally defined planning factors and Transportation Program Management (TPM) goals
-          - Consistency with the current Metropolitan (Long-Range) Transportation Plan (MTP/LRP)
-          - Undergoes public review including at least one public meeting
-          - Consistent with the air quality goals established by a State Implementation Plan (SIP)
+          Yes, the GBNRTC TIP is consistent with all federal guidance and regulations.
       - question: |
           Does GBNRTC TIP undergo public review?
         answer: |
@@ -150,13 +158,13 @@ seed_examples:
         answer: |
           For the 2023-2027 TIP, the GBNRTC conducted interagency consultation with 21 federal, state, local, and tribal agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation.
       - question: |
-          When creating TIP, does the GBNRTC consult with NYS Department of Agriculture?
+          Does the GBNRTC consult with NYS Department of Agriculture thoughout the TIP creation process?
         answer: |
           When creating TIP, the GBNRTC consults with many agencies, including the NYS Department of Agriculture.
       - question: |
-          When creating TIP, does the GBNRTC consult with NYS Office of Parks, Recreation, and Historic Preservation?
+          Does the GBNRTC consult with NYS Office of Parks, Recreation, and Historic Preservation for TIP?
         answer: |
-          When creating TIP, the GBNRTC consults with many agencies including the NYS Office of Parks, Recreation, and Historic Preservation.
+          The GBNRTC consults with many agencies for TIP including the NYS Office of Parks, Recreation, and Historic Preservation.
   - context: |
       ## Project Candidate Evaluation Criteria
 
@@ -234,7 +242,10 @@ seed_examples:
           Does the TIP development process engage with the interested state and regional agencies to consult and comment on the TIP?
         answer: |
           Yes, the TIP Development process provides the opportunity for interested state and regional agencies to consult and comment on the draft of the TIP. TIP development process also encourges participation of Indian/Native Nations government(s) and targeted stakeholders in the rural areas.
+<<<<<<< HEAD:knowedge/qna.yaml
 
+=======
+>>>>>>> main:taxonomy/knowledge/transportation/qna.yaml
 document:
   repo: https://github.com/bmos300/publicinstructlab.git
   commit: main
